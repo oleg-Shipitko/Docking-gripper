@@ -7,5 +7,7 @@ The repository contains source code and CAD models of the prototype of gripper i
 
 Architecture of the developed module is presented below.
 ![architecture](/Kultapa.jpg)
+
+
 The schematics of the developed system is presented on the figure:
 ![schem](/Gripper_schematic.jpg)
