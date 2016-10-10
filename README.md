@@ -6,8 +6,8 @@ The repository contains source code and CAD models of the prototype of gripper i
 - **SputnixReport.pdf** file contains detailed information about the developed module.
 
 Architecture of the developed module is presented below.
-![architecture](/Kultapa.jpg =250x)
+![architecture](/Kultapa.jpg | =250x)
 
 
 The schematics of the developed system is presented on the figure:
-![schem](/Gripper_schematic.jpg =250x)
+![schem](/Gripper_schematic.jpg | =250x)
